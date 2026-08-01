@@ -1,0 +1,2057 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/kw/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/kuwait-administrative-divisions",
+  "data": [
+    {
+      "id": "KW01",
+      "name": {
+        "local": "الاحمدي",
+        "en": "Al-Ahmadi",
+        "slug": "al-ahmadi"
+      },
+      "code": {
+        "id": "KW01",
+        "iso": null
+      },
+      "area": [
+        {
+          "id": "KW01001",
+          "name": {
+            "local": "ابو حليفة",
+            "en": "ABU- HALAIFA",
+            "slug": "abu--halaifa"
+          },
+          "code": {
+            "id": "KW01001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01002",
+          "name": {
+            "local": "علي صباح السالم",
+            "en": "ALI SABAH AL-SALEM",
+            "slug": "ali-sabah-al-salem"
+          },
+          "code": {
+            "id": "KW01002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01003",
+          "name": {
+            "local": "فهد الاحمد",
+            "en": "FAHAD Al AHMAD",
+            "slug": "fahad-al-ahmad"
+          },
+          "code": {
+            "id": "KW01003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01004",
+          "name": {
+            "local": "الاحمدي",
+            "en": "AHMADI",
+            "slug": "ahmadi"
+          },
+          "code": {
+            "id": "KW01004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01005",
+          "name": {
+            "local": "الاحمدي 2 - المنتزه القومي",
+            "en": "AHMADI 2",
+            "slug": "ahmadi-2"
+          },
+          "code": {
+            "id": "KW01005",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01006",
+          "name": {
+            "local": "الاحمدي 2 - شرق الأحمدي",
+            "en": "AHMADI 2 - EAST",
+            "slug": "ahmadi-2---east"
+          },
+          "code": {
+            "id": "KW01006",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01007",
+          "name": {
+            "local": "الاحمدي 2 - واره",
+            "en": "AHMADI 2 - WARA",
+            "slug": "ahmadi-2---wara"
+          },
+          "code": {
+            "id": "KW01007",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01008",
+          "name": {
+            "local": "الاحمدي 2 - الجعيدان",
+            "en": "AHMADI 2 - ALJEIDAN",
+            "slug": "ahmadi-2---aljeidan"
+          },
+          "code": {
+            "id": "KW01008",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01009",
+          "name": {
+            "local": "الاحمدي 2 - المقوع",
+            "en": "AHMADI 2 - AlMAQWA",
+            "slug": "ahmadi-2---almaqwa"
+          },
+          "code": {
+            "id": "KW01009",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01010",
+          "name": {
+            "local": "الاحمدي 2 - ميناء عبدالله",
+            "en": "AHMADI 2 - \nMINA ABD ALLAH",
+            "slug": "ahmadi-2---mina-abd-allah"
+          },
+          "code": {
+            "id": "KW01010",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01011",
+          "name": {
+            "local": "الاحمدي 2 - الجليعة",
+            "en": "AHMADI 2 - \nAl-JULAIA'A",
+            "slug": "ahmadi-2---al-julaiaa"
+          },
+          "code": {
+            "id": "KW01011",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01012",
+          "name": {
+            "local": "الاحمدي 2 - بنيدر",
+            "en": "AHMADI 2 - \nBNAIDER",
+            "slug": "ahmadi-2---bnaider"
+          },
+          "code": {
+            "id": "KW01012",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01013",
+          "name": {
+            "local": "الاحمدي 2 - الخيران (1)",
+            "en": "AHMADI 2 - \nAl KHIRAN (1)",
+            "slug": "ahmadi-2---al-khiran-1"
+          },
+          "code": {
+            "id": "KW01013",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01014",
+          "name": {
+            "local": "الاحمدي 2 - الخيران (2)",
+            "en": "AHMADI 2 - \nAl KHIRAN (2)",
+            "slug": "ahmadi-2---al-khiran-2"
+          },
+          "code": {
+            "id": "KW01014",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01015",
+          "name": {
+            "local": "الاحمدي 2 - الخيران (3)",
+            "en": "AHMADI 2 - \nAl KHIRAN (3)",
+            "slug": "ahmadi-2---al-khiran-3"
+          },
+          "code": {
+            "id": "KW01015",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01016",
+          "name": {
+            "local": "الاحمدي 2 - الخيران (4)",
+            "en": "AHMADI 2 - \nAl KHIRAN (4)",
+            "slug": "ahmadi-2---al-khiran-4"
+          },
+          "code": {
+            "id": "KW01016",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01017",
+          "name": {
+            "local": "الاحمدي 2 - الخيران (5)",
+            "en": "AHMADI 2 - \nAl KHIRAN (5)",
+            "slug": "ahmadi-2---al-khiran-5"
+          },
+          "code": {
+            "id": "KW01017",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01018",
+          "name": {
+            "local": "الظهر",
+            "en": "DHAHAR",
+            "slug": "dhahar"
+          },
+          "code": {
+            "id": "KW01018",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01019",
+          "name": {
+            "local": "الفحيحيل الصناعية",
+            "en": "FAHAHEEL INDUTRIAL",
+            "slug": "fahaheel-indutrial"
+          },
+          "code": {
+            "id": "KW01019",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01020",
+          "name": {
+            "local": "الفحيحيل",
+            "en": "FAHAHEEL",
+            "slug": "fahaheel"
+          },
+          "code": {
+            "id": "KW01020",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01021",
+          "name": {
+            "local": "الفنطاس",
+            "en": "FINTAS",
+            "slug": "fintas"
+          },
+          "code": {
+            "id": "KW01021",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01022",
+          "name": {
+            "local": "هدية",
+            "en": "HADIYAH",
+            "slug": "hadiyah"
+          },
+          "code": {
+            "id": "KW01022",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01023",
+          "name": {
+            "local": "جابر العلي",
+            "en": "JABER Al-ALI",
+            "slug": "jaber-al-ali"
+          },
+          "code": {
+            "id": "KW01023",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01024",
+          "name": {
+            "local": "الخيران",
+            "en": "KHAIRAN",
+            "slug": "khairan"
+          },
+          "code": {
+            "id": "KW01024",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01025",
+          "name": {
+            "local": "المهبولة",
+            "en": "MAHBOULA",
+            "slug": "mahboula"
+          },
+          "code": {
+            "id": "KW01025",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01026",
+          "name": {
+            "local": "المنقف",
+            "en": "MANGAF",
+            "slug": "mangaf"
+          },
+          "code": {
+            "id": "KW01026",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01027",
+          "name": {
+            "local": "المقوع",
+            "en": "MAQWAA",
+            "slug": "maqwaa"
+          },
+          "code": {
+            "id": "KW01027",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01028",
+          "name": {
+            "local": "العقيلة",
+            "en": "EQAILA",
+            "slug": "eqaila"
+          },
+          "code": {
+            "id": "KW01028",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01029",
+          "name": {
+            "local": "الرقة",
+            "en": "RIQQA",
+            "slug": "riqqa"
+          },
+          "code": {
+            "id": "KW01029",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01030",
+          "name": {
+            "local": "صباح الاحمد البحرية",
+            "en": "SABAH AL- AHMED SEA",
+            "slug": "sabah-al--ahmed-sea"
+          },
+          "code": {
+            "id": "KW01030",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01031",
+          "name": {
+            "local": "صباح الاحمد",
+            "en": "SABAH AL-AHMED",
+            "slug": "sabah-al-ahmed"
+          },
+          "code": {
+            "id": "KW01031",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01032",
+          "name": {
+            "local": "الصباحية",
+            "en": "SABAHIYAH",
+            "slug": "sabahiyah"
+          },
+          "code": {
+            "id": "KW01032",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01033",
+          "name": {
+            "local": "جنوب الصباحية",
+            "en": "SOUTH SABAHIYAH",
+            "slug": "south-sabahiyah"
+          },
+          "code": {
+            "id": "KW01033",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01034",
+          "name": {
+            "local": "الوفرة",
+            "en": "WAFRA",
+            "slug": "wafra"
+          },
+          "code": {
+            "id": "KW01034",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01035",
+          "name": {
+            "local": "وارة",
+            "en": "WARA",
+            "slug": "wara"
+          },
+          "code": {
+            "id": "KW01035",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW01036",
+          "name": {
+            "local": "الزور",
+            "en": "ZOAR",
+            "slug": "zoar"
+          },
+          "code": {
+            "id": "KW01036",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KW03",
+      "name": {
+        "local": "الجهراء",
+        "en": "AL-Jahra",
+        "slug": "al-jahra"
+      },
+      "code": {
+        "id": "KW03",
+        "iso": null
+      },
+      "area": [
+        {
+          "id": "KW03037",
+          "name": {
+            "local": "العبدلي",
+            "en": "AL-ABDALI",
+            "slug": "al-abdali"
+          },
+          "code": {
+            "id": "KW03037",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03038",
+          "name": {
+            "local": "المطلاع التجاري",
+            "en": "AL - MUTLAA COMERCIAL",
+            "slug": "al---mutlaa-comercial"
+          },
+          "code": {
+            "id": "KW03038",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03039",
+          "name": {
+            "local": "المطلاع",
+            "en": "AL-MUTLA'A",
+            "slug": "al-mutlaa"
+          },
+          "code": {
+            "id": "KW03039",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03040",
+          "name": {
+            "local": "المطلاع 2",
+            "en": "AL - MUTLA'A 2",
+            "slug": "al---mutlaa-2"
+          },
+          "code": {
+            "id": "KW03040",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03041",
+          "name": {
+            "local": "المطلاع 3",
+            "en": "AL - MUTLA'A 3",
+            "slug": "al---mutlaa-3"
+          },
+          "code": {
+            "id": "KW03041",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03042",
+          "name": {
+            "local": "المطلاع 4",
+            "en": "AL - MUTLA'A 4",
+            "slug": "al---mutlaa-4"
+          },
+          "code": {
+            "id": "KW03042",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03043",
+          "name": {
+            "local": "المطلاع 5",
+            "en": "AL - MUTLA'A 5",
+            "slug": "al---mutlaa-5"
+          },
+          "code": {
+            "id": "KW03043",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03044",
+          "name": {
+            "local": "المطلاع 6",
+            "en": "AL - MUTLA'A 6",
+            "slug": "al---mutlaa-6"
+          },
+          "code": {
+            "id": "KW03044",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03045",
+          "name": {
+            "local": "المطلاع 7",
+            "en": "AL - MUTLA'A 7",
+            "slug": "al---mutlaa-7"
+          },
+          "code": {
+            "id": "KW03045",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03046",
+          "name": {
+            "local": "المطلاع 8",
+            "en": "AL - MUTLA'A 8",
+            "slug": "al---mutlaa-8"
+          },
+          "code": {
+            "id": "KW03046",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03047",
+          "name": {
+            "local": "المطلاع 9",
+            "en": "AL - MUTLA'A 9",
+            "slug": "al---mutlaa-9"
+          },
+          "code": {
+            "id": "KW03047",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03048",
+          "name": {
+            "local": "المطلاع 10",
+            "en": "AL - MUTLA'A 10",
+            "slug": "al---mutlaa-10"
+          },
+          "code": {
+            "id": "KW03048",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03049",
+          "name": {
+            "local": "المطلاع 11",
+            "en": "AL - MUTLA'A 11",
+            "slug": "al---mutlaa-11"
+          },
+          "code": {
+            "id": "KW03049",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03050",
+          "name": {
+            "local": "المطلاع 12",
+            "en": "AL - MUTLA'A 12",
+            "slug": "al---mutlaa-12"
+          },
+          "code": {
+            "id": "KW03050",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03051",
+          "name": {
+            "local": "المطلاع 13",
+            "en": "AL - MUTLA'A 13",
+            "slug": "al---mutlaa-13"
+          },
+          "code": {
+            "id": "KW03051",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03052",
+          "name": {
+            "local": "الروضتين",
+            "en": "AL - ROZATAIN",
+            "slug": "al---rozatain"
+          },
+          "code": {
+            "id": "KW03052",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03053",
+          "name": {
+            "local": "السالمي",
+            "en": "AL - SALMI",
+            "slug": "al---salmi"
+          },
+          "code": {
+            "id": "KW03053",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03054",
+          "name": {
+            "local": "الجهراء",
+            "en": "AL-JAHRA",
+            "slug": "al-jahra"
+          },
+          "code": {
+            "id": "KW03054",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03055",
+          "name": {
+            "local": "النعيم",
+            "en": "AL-NAEEM",
+            "slug": "al-naeem"
+          },
+          "code": {
+            "id": "KW03055",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03056",
+          "name": {
+            "local": "النسيم",
+            "en": "AL-NASEEM",
+            "slug": "al-naseem"
+          },
+          "code": {
+            "id": "KW03056",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03057",
+          "name": {
+            "local": "العيون",
+            "en": "AL-OYOON",
+            "slug": "al-oyoon"
+          },
+          "code": {
+            "id": "KW03057",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03058",
+          "name": {
+            "local": "القصر",
+            "en": "AL-QASER",
+            "slug": "al-qaser"
+          },
+          "code": {
+            "id": "KW03058",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03059",
+          "name": {
+            "local": "الواحه",
+            "en": "AL-WAHA",
+            "slug": "al-waha"
+          },
+          "code": {
+            "id": "KW03059",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03060",
+          "name": {
+            "local": "بوبيان",
+            "en": "BUBYAN",
+            "slug": "bubyan"
+          },
+          "code": {
+            "id": "KW03060",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03061",
+          "name": {
+            "local": "جابر الاحمد",
+            "en": "JABER AL-AHMED",
+            "slug": "jaber-al-ahmed"
+          },
+          "code": {
+            "id": "KW03061",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03062",
+          "name": {
+            "local": "سعد العبدالله",
+            "en": "SAAD AL-ABDULLA",
+            "slug": "saad-al-abdulla"
+          },
+          "code": {
+            "id": "KW03062",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03063",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 1",
+            "en": "SOUTH SAAD AL-ABDULLA 1",
+            "slug": "south-saad-al-abdulla-1"
+          },
+          "code": {
+            "id": "KW03063",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03064",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 2",
+            "en": "SOUTH SAAD AL-ABDULLA 2",
+            "slug": "south-saad-al-abdulla-2"
+          },
+          "code": {
+            "id": "KW03064",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03065",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 3",
+            "en": "SOUTH SAAD AL-ABDULLA 3",
+            "slug": "south-saad-al-abdulla-3"
+          },
+          "code": {
+            "id": "KW03065",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03066",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 4",
+            "en": "SOUTH SAAD AL-ABDULLA 4",
+            "slug": "south-saad-al-abdulla-4"
+          },
+          "code": {
+            "id": "KW03066",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03067",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 5",
+            "en": "SOUTH SAAD AL-ABDULLA 5",
+            "slug": "south-saad-al-abdulla-5"
+          },
+          "code": {
+            "id": "KW03067",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03068",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 6",
+            "en": "SOUTH SAAD AL-ABDULLA 6",
+            "slug": "south-saad-al-abdulla-6"
+          },
+          "code": {
+            "id": "KW03068",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03069",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 7",
+            "en": "SOUTH SAAD AL-ABDULLA 7",
+            "slug": "south-saad-al-abdulla-7"
+          },
+          "code": {
+            "id": "KW03069",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03070",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 8",
+            "en": "SOUTH SAAD AL-ABDULLA 8",
+            "slug": "south-saad-al-abdulla-8"
+          },
+          "code": {
+            "id": "KW03070",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03071",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 9",
+            "en": "SOUTH SAAD AL-ABDULLA 9",
+            "slug": "south-saad-al-abdulla-9"
+          },
+          "code": {
+            "id": "KW03071",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03072",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 10",
+            "en": "SOUTH SAAD AL-ABDULLA 10",
+            "slug": "south-saad-al-abdulla-10"
+          },
+          "code": {
+            "id": "KW03072",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03073",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 11",
+            "en": "SOUTH SAAD AL-ABDULLA 11",
+            "slug": "south-saad-al-abdulla-11"
+          },
+          "code": {
+            "id": "KW03073",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03074",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 12",
+            "en": "SOUTH SAAD AL-ABDULLA 12",
+            "slug": "south-saad-al-abdulla-12"
+          },
+          "code": {
+            "id": "KW03074",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03075",
+          "name": {
+            "local": "سعد العبدالله الجنوبي 13",
+            "en": "SOUTH SAAD AL-ABDULLA 13",
+            "slug": "south-saad-al-abdulla-13"
+          },
+          "code": {
+            "id": "KW03075",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03076",
+          "name": {
+            "local": "سعد العبدالله الجنوبي التجاري",
+            "en": "SOUTH SAAD AL-ABDULLA COMERCIAL",
+            "slug": "south-saad-al-abdulla-comercial"
+          },
+          "code": {
+            "id": "KW03076",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03077",
+          "name": {
+            "local": "الصليبية",
+            "en": "SULAIBIAH",
+            "slug": "sulaibiah"
+          },
+          "code": {
+            "id": "KW03077",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03078",
+          "name": {
+            "local": "تيماء",
+            "en": "TAIMA",
+            "slug": "taima"
+          },
+          "code": {
+            "id": "KW03078",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03079",
+          "name": {
+            "local": "ام العيش",
+            "en": "UM  AL-AISH",
+            "slug": "um-al-aish"
+          },
+          "code": {
+            "id": "KW03079",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW03080",
+          "name": {
+            "local": "وربة",
+            "en": "WARBA",
+            "slug": "warba"
+          },
+          "code": {
+            "id": "KW03080",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KW04",
+      "name": {
+        "local": "العاصمة",
+        "en": "Capital",
+        "slug": "capital"
+      },
+      "code": {
+        "id": "KW04",
+        "iso": null
+      },
+      "area": [
+        {
+          "id": "KW04081",
+          "name": {
+            "local": "عبدالله السالم",
+            "en": "ABDULLA Al-SALEM",
+            "slug": "abdulla-al-salem"
+          },
+          "code": {
+            "id": "KW04081",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04082",
+          "name": {
+            "local": "الدوحه",
+            "en": "AL-DOHA",
+            "slug": "al-doha"
+          },
+          "code": {
+            "id": "KW04082",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04083",
+          "name": {
+            "local": "بنيد القار",
+            "en": "BNAID AL-GAR",
+            "slug": "bnaid-al-gar"
+          },
+          "code": {
+            "id": "KW04083",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04084",
+          "name": {
+            "local": "الدعية",
+            "en": "AL-DA'EYA",
+            "slug": "al-daeya"
+          },
+          "code": {
+            "id": "KW04084",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04085",
+          "name": {
+            "local": "الدسمة",
+            "en": "Al-DASMA",
+            "slug": "al-dasma"
+          },
+          "code": {
+            "id": "KW04085",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04086",
+          "name": {
+            "local": "دسمان",
+            "en": "DASMAN",
+            "slug": "dasman"
+          },
+          "code": {
+            "id": "KW04086",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04087",
+          "name": {
+            "local": "العديلية",
+            "en": "AL-EDAILIYAH",
+            "slug": "al-edailiyah"
+          },
+          "code": {
+            "id": "KW04087",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04088",
+          "name": {
+            "local": "الفيحاء",
+            "en": "AL-FAIHA'A",
+            "slug": "al-faihaa"
+          },
+          "code": {
+            "id": "KW04088",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04089",
+          "name": {
+            "local": "فيلكا",
+            "en": "FAILAKA",
+            "slug": "failaka"
+          },
+          "code": {
+            "id": "KW04089",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04090",
+          "name": {
+            "local": "جزيرة كبر",
+            "en": "ISLANDs",
+            "slug": "islands"
+          },
+          "code": {
+            "id": "KW04090",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04091",
+          "name": {
+            "local": "جزيرة أم المرادم",
+            "en": "",
+            "slug": "kw04091"
+          },
+          "code": {
+            "id": "KW04091",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04092",
+          "name": {
+            "local": "جزيرة قاروه",
+            "en": "",
+            "slug": "kw04092"
+          },
+          "code": {
+            "id": "KW04092",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04093",
+          "name": {
+            "local": "جزيرة مسكان",
+            "en": "",
+            "slug": "kw04093"
+          },
+          "code": {
+            "id": "KW04093",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04094",
+          "name": {
+            "local": "جزيرة عوهة",
+            "en": "",
+            "slug": "kw04094"
+          },
+          "code": {
+            "id": "KW04094",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04095",
+          "name": {
+            "local": "كيفان",
+            "en": "KAIFAN",
+            "slug": "kaifan"
+          },
+          "code": {
+            "id": "KW04095",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04096",
+          "name": {
+            "local": "الخالدية",
+            "en": "AL-KHALDIYAH",
+            "slug": "al-khaldiyah"
+          },
+          "code": {
+            "id": "KW04096",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04097",
+          "name": {
+            "local": "المنصورية",
+            "en": "AL-MANSOURIYAH",
+            "slug": "al-mansouriyah"
+          },
+          "code": {
+            "id": "KW04097",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04098",
+          "name": {
+            "local": "مرقاب",
+            "en": "AL-MURGAB",
+            "slug": "al-murgab"
+          },
+          "code": {
+            "id": "KW04098",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04099",
+          "name": {
+            "local": "النهضة",
+            "en": "AL-NAHDHA",
+            "slug": "al-nahdha"
+          },
+          "code": {
+            "id": "KW04099",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04100",
+          "name": {
+            "local": "النزهة",
+            "en": "Al-NUZHA",
+            "slug": "al-nuzha"
+          },
+          "code": {
+            "id": "KW04100",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04101",
+          "name": {
+            "local": "القادسية",
+            "en": "AL-QADISIYAH",
+            "slug": "al-qadisiyah"
+          },
+          "code": {
+            "id": "KW04101",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04102",
+          "name": {
+            "local": "القيروان",
+            "en": "Al-QAIRAWAN",
+            "slug": "al-qairawan"
+          },
+          "code": {
+            "id": "KW04102",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04103",
+          "name": {
+            "local": "قبلة",
+            "en": "QUBLAH",
+            "slug": "qublah"
+          },
+          "code": {
+            "id": "KW04103",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04104",
+          "name": {
+            "local": "غرناطة",
+            "en": "QURNATA",
+            "slug": "qurnata"
+          },
+          "code": {
+            "id": "KW04104",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04105",
+          "name": {
+            "local": "قرطبة",
+            "en": "QURTUBA",
+            "slug": "qurtuba"
+          },
+          "code": {
+            "id": "KW04105",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04106",
+          "name": {
+            "local": "الروضة",
+            "en": "AL-RAWDHAH",
+            "slug": "al-rawdhah"
+          },
+          "code": {
+            "id": "KW04106",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04107",
+          "name": {
+            "local": "الصفاة",
+            "en": "AL-SAFAT",
+            "slug": "al-safat"
+          },
+          "code": {
+            "id": "KW04107",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04108",
+          "name": {
+            "local": "الشامية",
+            "en": "AL-SHAMIAH",
+            "slug": "al-shamiah"
+          },
+          "code": {
+            "id": "KW04108",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04109",
+          "name": {
+            "local": "الشرق",
+            "en": "AL-SHARQ",
+            "slug": "al-sharq"
+          },
+          "code": {
+            "id": "KW04109",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04110",
+          "name": {
+            "local": "الشويخ ب",
+            "en": "AL-SHUWAIKH B",
+            "slug": "al-shuwaikh-b"
+          },
+          "code": {
+            "id": "KW04110",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04111",
+          "name": {
+            "local": "الشويخ الصناعية",
+            "en": "AL-SHUWAIKH INDUSTRIAL",
+            "slug": "al-shuwaikh-industrial"
+          },
+          "code": {
+            "id": "KW04111",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04112",
+          "name": {
+            "local": "السوق الداخلي",
+            "en": "AL-SOUK Al-DAKHILI",
+            "slug": "al-souk-al-dakhili"
+          },
+          "code": {
+            "id": "KW04112",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04113",
+          "name": {
+            "local": "الصليبيخات",
+            "en": "Al-SULAIBEKHAT",
+            "slug": "al-sulaibekhat"
+          },
+          "code": {
+            "id": "KW04113",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04114",
+          "name": {
+            "local": "السره",
+            "en": "Al-SURRA",
+            "slug": "al-surra"
+          },
+          "code": {
+            "id": "KW04114",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04115",
+          "name": {
+            "local": "ام صدة",
+            "en": "UM SEDDAH",
+            "slug": "um-seddah"
+          },
+          "code": {
+            "id": "KW04115",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04116",
+          "name": {
+            "local": "الوطية",
+            "en": "AL-WATTEYAH",
+            "slug": "al-watteyah"
+          },
+          "code": {
+            "id": "KW04116",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW04117",
+          "name": {
+            "local": "اليرموك",
+            "en": "AL-YARMOUK",
+            "slug": "al-yarmouk"
+          },
+          "code": {
+            "id": "KW04117",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KW02",
+      "name": {
+        "local": "الفروانية",
+        "en": "Farwaniyah",
+        "slug": "farwaniyah"
+      },
+      "code": {
+        "id": "KW02",
+        "iso": null
+      },
+      "area": [
+        {
+          "id": "KW02118",
+          "name": {
+            "local": "العارضية",
+            "en": "AL-ARDHIYAH",
+            "slug": "al-ardhiyah"
+          },
+          "code": {
+            "id": "KW02118",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02119",
+          "name": {
+            "local": "عبدالله المبارك",
+            "en": "ABDULLA AL- MUBARAK",
+            "slug": "abdulla-al--mubarak"
+          },
+          "code": {
+            "id": "KW02119",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02120",
+          "name": {
+            "local": "ابرق خيطان",
+            "en": "ABRAQ KHAITAN",
+            "slug": "abraq-khaitan"
+          },
+          "code": {
+            "id": "KW02120",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02121",
+          "name": {
+            "local": "الرحاب",
+            "en": "AL-REHAB",
+            "slug": "al-rehab"
+          },
+          "code": {
+            "id": "KW02121",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02122",
+          "name": {
+            "local": "الاندلس",
+            "en": "AL-ANDALOUS",
+            "slug": "al-andalous"
+          },
+          "code": {
+            "id": "KW02122",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02123",
+          "name": {
+            "local": "اشبيلية",
+            "en": "ESHBILYA",
+            "slug": "eshbilya"
+          },
+          "code": {
+            "id": "KW02123",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02124",
+          "name": {
+            "local": "الفروانية",
+            "en": "AL-FARWANIYAH",
+            "slug": "al-farwaniyah"
+          },
+          "code": {
+            "id": "KW02124",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02125",
+          "name": {
+            "local": "الفردوس",
+            "en": "AL-FIRDOUS",
+            "slug": "al-firdous"
+          },
+          "code": {
+            "id": "KW02125",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02126",
+          "name": {
+            "local": "جليب الشيوخ",
+            "en": "JELEEB AL-SHOYOUKH",
+            "slug": "jeleeb-al-shoyoukh"
+          },
+          "code": {
+            "id": "KW02126",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02127",
+          "name": {
+            "local": "كبد",
+            "en": "KABD",
+            "slug": "kabd"
+          },
+          "code": {
+            "id": "KW02127",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02128",
+          "name": {
+            "local": "العمرية",
+            "en": "AL-OMARIYAH",
+            "slug": "al-omariyah"
+          },
+          "code": {
+            "id": "KW02128",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02129",
+          "name": {
+            "local": "الري",
+            "en": "AL-RAI",
+            "slug": "al-rai"
+          },
+          "code": {
+            "id": "KW02129",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02130",
+          "name": {
+            "local": "الرقعي",
+            "en": "AL-RIQQAE",
+            "slug": "al-riqqae"
+          },
+          "code": {
+            "id": "KW02130",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02131",
+          "name": {
+            "local": "صباح الناصر",
+            "en": "SABAH AL-NASER",
+            "slug": "sabah-al-naser"
+          },
+          "code": {
+            "id": "KW02131",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02132",
+          "name": {
+            "local": "الشدادية",
+            "en": "AL-SHEDADIAH",
+            "slug": "al-shedadiah"
+          },
+          "code": {
+            "id": "KW02132",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02133",
+          "name": {
+            "local": "جنوب عبدالله المبارك",
+            "en": "SOUTH ABDULLA AL-MUBARAK 2",
+            "slug": "south-abdulla-al-mubarak-2"
+          },
+          "code": {
+            "id": "KW02133",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW02134",
+          "name": {
+            "local": "خيطان الجنوبي",
+            "en": "SOUTH KHAITAN",
+            "slug": "south-khaitan"
+          },
+          "code": {
+            "id": "KW02134",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KW05",
+      "name": {
+        "local": "حولي",
+        "en": "Hawally",
+        "slug": "hawally"
+      },
+      "code": {
+        "id": "KW05",
+        "iso": null
+      },
+      "area": [
+        {
+          "id": "KW05135",
+          "name": {
+            "local": "السلام",
+            "en": "AL-SALAM",
+            "slug": "al-salam"
+          },
+          "code": {
+            "id": "KW05135",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05136",
+          "name": {
+            "local": "الشعب البحري",
+            "en": "AL-SHA`AB AL-BAHREE",
+            "slug": "al-shaab-al-bahree"
+          },
+          "code": {
+            "id": "KW05136",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05137",
+          "name": {
+            "local": "الشهداء",
+            "en": "AL-SHUHADA",
+            "slug": "al-shuhada"
+          },
+          "code": {
+            "id": "KW05137",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05138",
+          "name": {
+            "local": "بيان",
+            "en": "BAYAN",
+            "slug": "bayan"
+          },
+          "code": {
+            "id": "KW05138",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05139",
+          "name": {
+            "local": "البدع",
+            "en": "BIDDA",
+            "slug": "bidda"
+          },
+          "code": {
+            "id": "KW05139",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05140",
+          "name": {
+            "local": "حولي",
+            "en": "HAWALLY",
+            "slug": "hawally"
+          },
+          "code": {
+            "id": "KW05140",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05141",
+          "name": {
+            "local": "حطين",
+            "en": "HUTEEN",
+            "slug": "huteen"
+          },
+          "code": {
+            "id": "KW05141",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05142",
+          "name": {
+            "local": "الجابرية",
+            "en": "JABRIYAH",
+            "slug": "jabriyah"
+          },
+          "code": {
+            "id": "KW05142",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05143",
+          "name": {
+            "local": "المدائن",
+            "en": "MADAEN",
+            "slug": "madaen"
+          },
+          "code": {
+            "id": "KW05143",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05144",
+          "name": {
+            "local": "مبارك العبدالله",
+            "en": "MUBARAK AL-ABDULLA",
+            "slug": "mubarak-al-abdulla"
+          },
+          "code": {
+            "id": "KW05144",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05145",
+          "name": {
+            "local": "مشرف",
+            "en": "MUSHRIF",
+            "slug": "mushrif"
+          },
+          "code": {
+            "id": "KW05145",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05146",
+          "name": {
+            "local": "الراس",
+            "en": "RAS",
+            "slug": "ras"
+          },
+          "code": {
+            "id": "KW05146",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05147",
+          "name": {
+            "local": "الرميثية",
+            "en": "RUMAITHIYAH",
+            "slug": "rumaithiyah"
+          },
+          "code": {
+            "id": "KW05147",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05148",
+          "name": {
+            "local": "السالمية",
+            "en": "SALMIYAH",
+            "slug": "salmiyah"
+          },
+          "code": {
+            "id": "KW05148",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05149",
+          "name": {
+            "local": "سلوى",
+            "en": "SALWA",
+            "slug": "salwa"
+          },
+          "code": {
+            "id": "KW05149",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05150",
+          "name": {
+            "local": "الشعب",
+            "en": "SHA`AB",
+            "slug": "shaab"
+          },
+          "code": {
+            "id": "KW05150",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05151",
+          "name": {
+            "local": "الصديق",
+            "en": "SUDEEQ",
+            "slug": "sudeeq"
+          },
+          "code": {
+            "id": "KW05151",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW05152",
+          "name": {
+            "local": "الزهراء",
+            "en": "ZAHRAA",
+            "slug": "zahraa"
+          },
+          "code": {
+            "id": "KW05152",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KW06",
+      "name": {
+        "local": "مبارك الكبير",
+        "en": "Mubarak AL-Kabeer",
+        "slug": "mubarak-al-kabeer"
+      },
+      "code": {
+        "id": "KW06",
+        "iso": null
+      },
+      "area": [
+        {
+          "id": "KW06153",
+          "name": {
+            "local": "أبو فطيرة",
+            "en": "ABU - FATIRA",
+            "slug": "abu---fatira"
+          },
+          "code": {
+            "id": "KW06153",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW06154",
+          "name": {
+            "local": "أبو الحصانية",
+            "en": "ABU-HASANIYA",
+            "slug": "abu-hasaniya"
+          },
+          "code": {
+            "id": "KW06154",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW06155",
+          "name": {
+            "local": "العدان",
+            "en": "AL-ADDAN",
+            "slug": "al-addan"
+          },
+          "code": {
+            "id": "KW06155",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW06156",
+          "name": {
+            "local": "القرين",
+            "en": "AL-QURAIN",
+            "slug": "al-qurain"
+          },
+          "code": {
+            "id": "KW06156",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW06157",
+          "name": {
+            "local": "القصور",
+            "en": "AL-QUSOOR",
+            "slug": "al-qusoor"
+          },
+          "code": {
+            "id": "KW06157",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW06158",
+          "name": {
+            "local": "الفنيطيس",
+            "en": "FINAITEES",
+            "slug": "finaitees"
+          },
+          "code": {
+            "id": "KW06158",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW06159",
+          "name": {
+            "local": "المسايل",
+            "en": "MESAYEL",
+            "slug": "mesayel"
+          },
+          "code": {
+            "id": "KW06159",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW06160",
+          "name": {
+            "local": "مبارك الكبير",
+            "en": "MUBARAK AL-KABEER",
+            "slug": "mubarak-al-kabeer"
+          },
+          "code": {
+            "id": "KW06160",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW06161",
+          "name": {
+            "local": "صباح السالم أ",
+            "en": "SABAH AL-SALEM A",
+            "slug": "sabah-al-salem-a"
+          },
+          "code": {
+            "id": "KW06161",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW06162",
+          "name": {
+            "local": "صباح السالم ب",
+            "en": "SABAH AL-SALEM B",
+            "slug": "sabah-al-salem-b"
+          },
+          "code": {
+            "id": "KW06162",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW06163",
+          "name": {
+            "local": "صباح السالم ج",
+            "en": "SABAH AL-SALEM C",
+            "slug": "sabah-al-salem-c"
+          },
+          "code": {
+            "id": "KW06163",
+            "iso": null
+          }
+        },
+        {
+          "id": "KW06164",
+          "name": {
+            "local": "صبحان",
+            "en": "SABHAN",
+            "slug": "sabhan"
+          },
+          "code": {
+            "id": "KW06164",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

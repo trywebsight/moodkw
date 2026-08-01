@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+@import './menu-theme.css';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+
+@theme {
+    --font-sans: 'Gilroy', ui-sans-serif, system-ui, sans-serif;
+}

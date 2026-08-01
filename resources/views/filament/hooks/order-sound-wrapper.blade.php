@@ -1,0 +1,1 @@
+@livewire('order-sound-poller')
