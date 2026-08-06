@@ -31,6 +31,7 @@ class AdminPanelProvider extends PanelProvider
             ->id('admin')
             ->path('admin')
             ->login()
+            ->profile(isSimple: false)
             ->brandName(fn () => app(SettingsService::class)->getStoreName())
             ->brandLogo(fn () => app(SettingsService::class)->getStoreLogoUrl())
             ->brandLogoHeight('2.5rem')
